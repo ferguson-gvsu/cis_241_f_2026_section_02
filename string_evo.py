@@ -51,7 +51,7 @@ class StringSolver:
         letters_correct += 1
 
     frac = letters_correct / letters_total
-    return round(frac * 100, 2)
+    return round(frac * 1000, 2)
 
   def select(self, num_orgs):
     total_fitness = 0
