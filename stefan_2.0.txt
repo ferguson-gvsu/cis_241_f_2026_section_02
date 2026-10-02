@@ -4,3 +4,4 @@ hello mom
 fire
 another line
 edited from dev_2
+Hello from my terminal
