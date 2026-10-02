@@ -5,3 +5,4 @@ fire
 another line
 edited from dev_2
 Hello from my terminal
+Hello from the browser!
